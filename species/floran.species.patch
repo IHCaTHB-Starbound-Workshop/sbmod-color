@@ -2,7 +2,17 @@
   {
     "op": "replace",
     "path": "/charGenTextLabels/0",
-    "value": "Feather color"
+    "value": "Skin color"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "value": "Leaf color"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "value": "Flower color"
   },
   {
     "op": "replace",
