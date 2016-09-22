@@ -1,27 +1,5 @@
-[
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/0",
-    "value": "Skin color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/4",
-    "value": "Leaf color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/5",
-    "value": "Flower color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/6",
-    "value": "Shirt color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/7",
-    "value": "Legwear color"
-  }
-]
+[{"op":"replace","path":"/charGenTextLabels/0","value":"Skin color"},
+{"op":"replace","path":"/charGenTextLabels/4","value":"Leaf color"},
+{"op":"replace","path":"/charGenTextLabels/5","value":"Flower color"},
+{"op":"replace","path":"/charGenTextLabels/6","value":"Shirt color"},
+{"op":"replace","path":"/charGenTextLabels/7","value":"Legwear color"}]
