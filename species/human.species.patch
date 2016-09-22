@@ -1,22 +1,4 @@
-[
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/0",
-    "value": "Skin color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/5",
-    "value": "Hair color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/6",
-    "value": "Shirt color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/7",
-    "value": "Legwear color"
-  }
-]
+[{"op":"replace","path":"/charGenTextLabels/0","value":"Skin color"},
+{"op":"replace","path":"/charGenTextLabels/5","value":"Hair color"},
+{"op":"replace","path":"/charGenTextLabels/6","value":"Shirt color"},
+{"op":"replace","path":"/charGenTextLabels/7","value":"Legwear color"}]
