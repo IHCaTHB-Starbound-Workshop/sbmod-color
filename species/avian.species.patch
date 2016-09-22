@@ -1,17 +1,3 @@
-[
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/0",
-    "value": "Feather color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/6",
-    "value": "Shirt color"
-  },
-  {
-    "op": "replace",
-    "path": "/charGenTextLabels/7",
-    "value": "Legwear color"
-  }
-]
+[{"op":"replace","path":"/charGenTextLabels/0","value":"Feather color"},
+{"op":"replace","path":"/charGenTextLabels/6","value":"Shirt color"},
+{"op":"replace","path":"/charGenTextLabels/7","value":"Legwear color"}]
