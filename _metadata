@@ -1,12 +1,14 @@
 {
   "author" : "isaac as THE HONEY BADGER",
+  "name" : "COLOR.IHC",
+  "version" : "0.1"
+  "friendlyName" : "United States Of America English Dialect Translation",
+  "link" : "community.playstarbound.com/threads/124193/",
   "description" : "[h1]Replaces 'colour' with 'color' in character creation screen.[/h1]
 To do: hunt down and destroy the rest  of the typos.
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]",
-  "friendlyName" : "United States Of America English Dialect Translation",
-  "link" : "community.playstarbound.com/threads/124193/",
-  "name" : "COLOR.IHC",
-  "steamContentId" : "759329955",
-  "version" : "0.1"
+  "requires" : [],
+  "includes" : [],
+  "steamContentId" : "759329955"
 }
