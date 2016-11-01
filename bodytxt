@@ -2,7 +2,9 @@
 #ingame
 #######
 
-^#5aa9d6;Title^reset;
+^#5aa9d6;Replaces 'colour' with 'color' in character creation screen.^reset;
+
+To do: hunt down and destroy the rest  of the typos.
 
 For more, click the MEGATHREAD link from the steam page.
 
@@ -10,10 +12,10 @@ For more, click the MEGATHREAD link from the steam page.
 #steam
 ######
 
-[h1]Title[/h1]
+[h1]Replaces 'colour' with 'color' in character creation screen.[/h1]
+To do: hunt down and destroy the rest  of the typos.
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-/releases/]git.[/url]
 
 steam://url/CommunityFilePage/
 
@@ -21,9 +23,12 @@ steam://url/CommunityFilePage/
 #forum
 ######
 
-[URL='http://community.playstarbound.com/threads/124193/']MEGATHREAD[/URL]
+Replaces 'colour' with 'color' in character creation screen.
+To do: hunt down and destroy the rest of the typos.
 
-[[pictures]]
+After unintentionally trolling a bunch of steam user i'd like to make it clear, I did make this for me to use but it is not an actual gripe on the legitimate spelling of colour.
+
+[URL='http://community.playstarbound.com/threads/124193/']MEGATHREAD[/URL]
 
 PERMISSIONS: granted per license, gplv3, included in download.
 
@@ -31,4 +36,4 @@ PERMISSIONS: granted per license, gplv3, included in download.
 #megathread
 ###########
 
-Standard () [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=']steam[/URL] | [URL='http://community.playstarbound.com/resources//']forum[/URL] | [URL='https://github.com/IsaacHart//releases']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-/releases/download//sbmod-.pak']direct[/URL]
+(1.0a) [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=759329955']steam[/URL] | [URL='http://community.playstarbound.com/resources/4165/']forum[/URL] | [URL='https://github.com/IsaacHart/sbmod-color/releases']github[/URL] | [URL='https://github.com/IsaacHart/sbmod-color/releases/download/1.0a/sbmod-color-1.0a.pak']direct[/URL]
